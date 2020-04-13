@@ -738,7 +738,7 @@ code .kc {
     background-color: var(--bg3);
     box-shadow: 0 0 0 1px var(--bg4);
 }
-@media (min-width: 544px) {	
+@media (min-width: 544px) {
 	.SelectMenu-tab[aria-selected=true] {
 		border-color: var(--bg3);
 	}
@@ -873,4 +873,21 @@ code .kc {
 
 .btn:disabled, .btn:disabled:hover, .btn.disabled, .btn.disabled:hover, button.button:disabled, button.button:disabled:hover, button.button.disabled, button.button.disabled:hover, button.minibutton:disabled, button.minibutton:disabled:hover, button.minibutton.disabled, span.minibutton.disabled, a.minibutton.disabled, button.minibutton.disabled:hover, a.minibutton:disabled:hover, a.minibutton.disabled:hover, span.minibutton:disabled:hover, span.minibutton.disabled:hover, .search-result-group, .gist-quicksearch-result-group, .btn.btn-outline.disabled, .btn.btn-outline:disabled, .btn.btn-outline:disabled:hover, .btn.btn-outline:disabled:hover:not(.ajax-pagination-btn) {
 color: rgba(135, 201, 190, 0.82) !important
+    }
+
+.home-hero,.dot-com-announcement,.install-steps li pre, .site-footer {
+BACKGROUND: #11181c !important
+    }
+
+
+.dot-com-announcement span {
+COLOR: #18B0DF !important
+    }
+
+.hero-octicon {
+BACKGROUND: #1b2327 !important
+    }
+
+.hero-octicon .mega-octicon {
+COLOR: #87c9b0 !important
     }
