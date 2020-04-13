@@ -1,0 +1,113 @@
+/*modified from elrostelperien's skin: 
+https://userstyles.org/styles/174757/deepl-translator-dark*/
+
+html,
+body,
+.dl_translator_page_container,
+.lmt__dict__inner, .dl_menu, .dl_body--redesign, .dl_faq_section, .dl_pro_features, .dl_pro_pricing_article, .dl_pro_article_style, .dl_default_text_section {
+    background-color: #222 !important;
+    color: azure !important;
+}
+
+html, body, .dl_translator_page_container, .lmt__dict__inner, .dl_menu, html, body, .dl_translator_page_container, .lmt__dict__inner, .dl_menu{
+    color: #222 !important;
+}
+
+
+.dl_header,
+textarea, .dl_product {
+    background-color: #333 !important;
+    color: azure !important;
+}
+
+#lmt_quotes_article,
+.lmt_quotes__container,
+footer {
+    display: none;
+}
+
+.lmt__source_textarea__length_marker {
+    color: azure !important;
+}
+
+strong,
+#text {
+    color: #dbdbdb !important
+}
+
+.dictLink,
+.formLink {
+    color: #3cd789 !important
+}
+
+.translate_from,
+.translate_to,
+.lmt__language_select--source > button:nth-child(1) > div:nth-child(2),
+.lmt__language_select--target > button:nth-child(1) > div:nth-child(2) {
+    color: #ddd;
+}
+
+.lmt__language_select--source > div:nth-child(2),
+.lmt__language_select--source > div > button,
+.lmt__language_select--target > div:nth-child(2),
+.lmt__language_select--target > div > button {
+    background-color: #444;
+    color: azure !important;
+}
+
+.dl_header_menu_v2__logo > span:nth-child(2),
+#dl_menu_translator,
+#dl_menu_linguee,
+.dl_header_menu_v2__login_button > button:nth-child(1),
+.dl_header_menu_v2__buttons__menu > button:nth-child(1),
+.dl_header_menu_v2__buttons__menu,
+.dl_header_menu_v2__buttons__menu > button::before,
+.dl_header_menu_v2__buttons__menu > button::after,
+.lmt__language_select--source > button:nth-child(1) > span:nth-child(1), html, body, .dl_translator_page_container, .lmt__dict__inner, .dl_menu, html, body, .dl_translator_page_container, .lmt__dict__inner, .dl_menu {
+    color: azure !important;
+}
+
+.lmt__target_toolbar .lmt__target_toolbar__generic > button,
+.lmt__target_toolbar .lmt__target_toolbar__copy > button,
+.lmt__target_toolbar .lmt__target_toolbar__save > button,
+.lmt__target_toolbar .lmt__target_toolbar__share > button {
+    stroke: azure !important;
+}
+
+.dl_cookie_footer__inner, .lmt__textarea_separator .lmt__textarea_separator__vertical_line {
+    background-color: #222 !important
+    }
+
+.dl_button--3 {
+    color: azure !important;
+    border: 1px solid azure !important
+    }
+
+.dl_link, .dl_cookie_footer__inner p a, .dl_body--translator .dl_header_menu__nav_link--translator, .dl_menu__login_btn:hover, .dl_menu__signup:hover, .dl_header_menu__nav_link:hover, .dl_faq_section .dl_faq_section__question{
+    color: #47bcf4
+    }
+
+.dl_menu__close_button::before, .dl_menu__close_button::before{
+    background-color: #47bcf4 !important
+    }
+
+.dl_menu__close_button::before, .dl_menu__close_button::after{
+    background-color: azure !important
+    }
+
+.lmt__dict .notascommon, .lmt__dict .source .tag_s, .lmt__dict .source .tag_usage, .lmt__dict .source .tag_formname, .lmt__dict .source .tag_wordtype, .lmt__dict .source .formlink, .lmt__dict .source .tag_forms, .lmt__dict .source .grammar_info, .lmt__dict .tag_area, .lmt__dict .tag_usage, .lmt__dict .tag_type, .lmt__dict .tag_wordtype, .lmt__dict .source .tag_s, .lmt__dict .source .tag_usage, .lmt__dict .source .tag_formname, .lmt__dict .source .tag_wordtype, .lmt__dict .source .formlink, .lmt__dict .source .tag_forms, .lmt__dict .source .grammar_info, .lmt__dict .tag_c,.dl_product__name_header, .dl_pro_pricing__usertype_container button:hover{
+    color: #d9d9d9 !important;
+    }
+
+.dl_header_menu_v2__links__item:hover, .dl_header_menu_v2__links__item.is-active {
+    border-bottom: 3px solid #3782a6 !important
+    }
+
+.dl_headerMenu__appButton, .dl_button--1 {
+    background-color: #FF6C4C !important;
+    color: black !important;
+    }
+
+.dl_pro_pricing__usertype_container button:hover{
+    color: #0d8bc8 !important;
+    }
