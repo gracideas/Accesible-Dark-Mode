@@ -822,7 +822,7 @@ body:not([data-whatinput="touch"]) .inbox-notifications .inbox-notifications__it
     background-color: #ba0000;
 }
 
-.dropdown-menu-clickable::before {
+.dropdown-menu-clickable::before, .navlist-hidden-list::before {
 	background-image: url("https://i.postimg.cc/NFBS0w9M/dropdown-arrow-47e2426b4e14.png");
 }
 
