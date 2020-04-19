@@ -1,0 +1,48 @@
+body, #mw-page-base, .toc, .catlinks, .infobox, #mw-head, .wikitable {
+	background-color: #151515;
+}
+
+.mw-body, .mw-ui-button, #searchInput, #ca-nstab-main > a:nth-child(1), #ca-talk > a:nth-child(1), #ca-view > a:nth-child(1), #ca-edit > a:nth-child(1) #ca-history > a:nth-child(1), #ca-history > a:nth-child(1), #ca-edit > a:nth-child(1) {
+	background-color: #0f0f0f;
+}
+
+a, .portal .body li a, .wb-langlinks-link > a:hover, .mw-parser-output a.external, .toctogglelabel, .mw-parser-output a.extiw, .vectorTabs li a {
+	color: #7caeff !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: #fff;
+}
+
+.mw-body, .mw-ui-button, .infobox, .vectorTabs .selected a, .vectorTabs .selected a:visited, .toccolours, .wikitable {
+	color: #e3e3e3;
+}
+
+.portal h3, #footer li, .tocnumber, #pt-anonuserpage, .wb-langlinks-link > a:link, .wb-langlinks-link > a:visited {
+	color: #a6a6a6;
+}
+
+.infobox, .mw-body, .toc, .catlinks {
+	border: 1px solid #242424;
+}
+
+a:visited {
+	color: #b78bf7;
+}
+
+.vectorTabs, .vectorTabs a, #mw-head .vectorMenu h3 {
+	background-image: linear-gradient(to bottom,rgba(167,215,249,0) 0,#242424 100%);
+}
+
+.mw-parser-output .quotebox, .toc, .mw-warning{
+	background-color: #313131;
+	border: #313131;
+}
+
+.wikitable > tr > th, .wikitable > * > tr > th {
+	background-color: #121820;
+}
+
+.wikitable > tr > th, .wikitable > tr > td, .wikitable > * > tr > th, .wikitable > * > tr > td {
+	border: 1px solid #1e1e1e;
+}
