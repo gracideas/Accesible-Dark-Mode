@@ -1,10 +1,15 @@
-body, #mw-page-base, .toc, .catlinks, .infobox, #mw-head, .wikitable {
-	background-color: #151515;
+body, #mw-page-base, .toc, .catlinks, .infobox, #mw-head, .wikitable, table.tracklist:nth-child(27) > caption:nth-child(1), .tlheader, .navbox-list {
+	background-color: #151515 !important;
 }
 
-.mw-body, .mw-ui-button, #searchInput, #ca-nstab-main > a:nth-child(1), #ca-talk > a:nth-child(1), #ca-view > a:nth-child(1), #ca-edit > a:nth-child(1) #ca-history > a:nth-child(1), #ca-history > a:nth-child(1), #ca-edit > a:nth-child(1) {
-	background-color: #0f0f0f;
+.mw-body, .mw-ui-button, #searchInput, #ca-nstab-main > a:nth-child(1), #ca-talk > a:nth-child(1), #ca-view > a:nth-child(1), #ca-edit > a:nth-child(1) #ca-history > a:nth-child(1), #ca-history > a:nth-child(1), #ca-edit > a:nth-child(1), .tracklist, .navbox, .navbox-subgroup, .vectorTabs, .vectorTabs a, #mw-head .vectorMenu h3, .vectorTabs li {
+	background-color: #0f0f0f !important;
 }
+
+.navbox {
+	border: 1px solid #0f0f0f;
+}
+
 
 a, .portal .body li a, .wb-langlinks-link > a:hover, .mw-parser-output a.external, .toctogglelabel, .mw-parser-output a.extiw, .vectorTabs li a {
 	color: #7caeff !important;
@@ -30,19 +35,20 @@ a:visited {
 	color: #b78bf7;
 }
 
-.vectorTabs, .vectorTabs a, #mw-head .vectorMenu h3 {
-	background-image: linear-gradient(to bottom,rgba(167,215,249,0) 0,#242424 100%);
-}
-
-.mw-parser-output .quotebox, .toc, .mw-warning{
-	background-color: #313131;
+.mw-parser-output .quotebox, .mw-warning, .navbox-abovebelow, .navbox-group {
+	background-color: #313131 !important;
 	border: #313131;
 }
 
-.wikitable > tr > th, .wikitable > * > tr > th {
-	background-color: #121820;
+.wikitable > tr > th, .wikitable > * > tr > th, table.wikitable:nth-child(16) > tbody:nth-child(2) > tr:nth-child(1) > th:nth-child(1), .navbox-title {
+	background-color: #121820 !important;
 }
 
 .wikitable > tr > th, .wikitable > tr > td, .wikitable > * > tr > th, .wikitable > * > tr > td {
 	border: 1px solid #1e1e1e;
 }
+
+.summary, .infobox > tbody:nth-child(1) > tr:nth-child(3) > th:nth-child(1), .infobox > tbody:nth-child(1) > tr:nth-child(11) > th:nth-child(1), .infobox > tbody:nth-child(1) > tr:nth-child(14) > th:nth-child(1), .infobox > tbody:nth-child(1) > tr:nth-child(16) > th:nth-child(1) {
+	background-color: #1b2127 !important;
+}
+ 
