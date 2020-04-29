@@ -1,0 +1,62 @@
+body, .frame::before  {
+	background-color: #1a1a1a !important;
+    color: white !important;
+}
+
+.ft-icon-txt {
+	color: white;
+}
+
+
+.header-button {
+	color: #74b0ff;
+}
+
+#gb, .orig, .results-container, .result, .gt-edit, .contribute-target, .ls-wrap, .language-list, #sl_list-search-box, .language_list_item_wrapper, .language_list_sl_list, .language-list-search-box, #sl_list-search-box, #tl_list-search-box, .language_list_sl_list, .language_list_tl_list {
+	background-color: #111 !important;
+    color: white !important;
+}
+
+.ls-wrap .sl-sugg .goog-inline-block.jfk-button:focus, .ls-wrap .tl-sugg .goog-inline-block.jfk-button:focus, .ls-wrap .sl-more:focus, .ls-wrap .tl-more:focus, .ls-wrap .lang-btn:focus-within, .ls-wrap .swap:focus {
+	background-color: #1f2734;
+}
+
+.sl-sugg .goog-inline-block.jfk-button, .tl-sugg .goog-inline-block.jfk-button, .language_list_item_language_name, #sl_list-search-box {
+    color: white !important;
+}
+
+.results-container:not(.empty) .placeholder, .result-dict-wrapper .translation, .contribute-target, #st-buttons .jfk-button {
+	color: rgba(255, 255, 255, 0.87);
+}
+
+.ft-icon-oval {
+	background: #111;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: 32px;
+	border: 1px solid rgba(0,0,0,.12);
+	border-radius: 50%;
+	height: 60px;
+	width: 60px;
+}
+
+.source-wrap {
+	background-color: #111;
+}
+
+.gt-spell-correct-message {
+	background-color: #111;
+	color: rgba(255, 255, 255, 0.54);
+}
+
+::placeholder { 
+  color: white;
+}
+
+.frame a:link {
+	color: #74b0ff;
+}
+
+.gt-spell-correct-message {
+	color: rgba(255, 255, 255, 0.62);
+}
