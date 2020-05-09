@@ -1,377 +1,377 @@
 .AnswerFeedStory, .RelatedQuestions.right_rail_ads_enabled, .SiteHeader {
-    background-color: #141d26;
-    color: white;
-    border-color:#005dff;
+    background-color: #141d26 !important;
+    color: white !important;
+    border-color:#005dff !important;
 }
 .Bundle .section_header .header_text .header_text_main,
 .Bundle .section_header .header_text .TopicNameSpan,
 .Bundle .section_header .header_text .header_text_main .user,
 .Bundle .section_header .header_text a.user {
-    color: white;
+    color: white !important;
 }
 .Bundle .section_header {
-    border-color:#005dff;
+    border-color:#005dff !important;
 }
 ._type_serif_title_medium {
-    color: white;
+    color: white !important;
 }
 .ContentHeader .feed_item_answer_user .user,
 .ContentHeader .feed_item_answer_user .anon_user {
-    color: white;
+    color: white !important;
 }
 .feed_card_on {
-    background-color: #141d26;
+    background-color: #141d26 !important;
 }
 .feed_card_on .Bundle .full_bundle {
-    background-color: #141d26;
-    border-color:#005dff;
+    background-color: #141d26 !important;
+    border-color:#005dff !important;
 }
 .threaded_comments.answer_auto_expanded_comments {
-    background-color: #141d26;
+    background-color: #141d26 !important;
     color: #E0E0E0;
 }
 .hover_menu .hover_menu_contents {
-    background-color: #141d26;
+    background-color: #141d26 !important;
 }
 .icon_action_bar.sticky {
-    background-color: #141d26;
+    background-color: #141d26 !important;
 }
 .feed_card_on .Bundle .singleton_bundle .feed_item {
-    background-color: #141d26;
-    border-color:#005dff;
+    background-color: #141d26 !important;
+    border-color:#005dff !important;
 }
 .outer_content .content_title {
-    color: white;
+    color: white !important;
 }
 .HyperLinkPreview .hyperlink_description {
-    color: white;
+    color: white !important;
 }
 .comments_preview_toggle {
-    background-color: #141d26;
-    color: white;
+    background-color: #141d26 !important;
+    color: white !important;
 }
 .comments_preview_toggle:hover {
-    background-color: #141d26;
+    background-color: #141d26 !important;
 }
 .web_page .Editor.Comment {
-    background-color: #141d26;
+    background-color: #141d26 !important;
 }
 .submit_button,
 .primary_button {
-    background-color: #0019ff;
+    background-color: #0019ff !important;
 }
 
 
 .HyperLinkPreview .hyperlink_title{
-	color:white;
+	color:white !important;
 }
 
 .feed_card_on .AddQuestionPrompt, .feed_card_on .UserShareHyperLinkPrompt{
- 	background-color: #151515;
+ 	background-color: #151515 !important;
 }
 
 .new_user_checklist{
-	background-color: #151515;
+	background-color: #151515 !important;
 }
 
 .EditableList .EditableListItem>a, .EditableList .StaticListItem>a, .EditableList .list_empty>a{
-	color:#ccc
+	color:#ccc !important
 }
 
 .layout_1col_main_card{
-	 background-color: #141d26;
-    color:white;
+	 background-color: #141d26 !important;
+    color:white !important;
 }
 
 ._type_serif_title_xlarge{
-	color:#22A7F0;
+	color:#22A7F0 !important;
 }
 
 .AnswerPageViewMoreLink, .multifeed_header .modal_related_answers .view_more{
-	background-color: #141d26;
+	background-color: #141d26 !important;
 }
 .comment_wrapper .show_child_link{
-	background-color: #141d26;
+	background-color: #141d26 !important;
 }
 
 body{
-	background-color:#141d26;
-    color:#FFECB3;
+	background-color:#141d26 !important;
+    color:#fff !important;
 }
 
 .AnswerListDiv{
-	color:white;
+	color:white !important;
 }
 
 ._type_serif_title_large{
-	color:#22A7F0;
+	color:#22A7F0 !important;
 }
 
 
 .question_related.list{
-	background-color: #141d26;;
+	background-color: #141d26 !important;
 }
 
 .NewGridQuestionPage .AnswerBase{
-	background-color: #141d26;
+	background-color: #141d26 !important;
 }
 
 ._type_serif_title_medium{
-	color:#22A7F0;
+	color:#22A7F0 !important;
 }
 .feed_card_on .Bundle .singleton_bundle .feed_item{
-	color:#B0BEC5;
+	color:#B0BEC5 !important;
 }
 
 .paged_list_wrapper{
-	color:#B0BEC5;
+	color:#B0BEC5 !important;
 }
 
 .ProfileNameAndSig h1{
-	color:#FFC107;
+	color:#FFC107 !important;
 }
 .ObjectCard .ObjectCard-header .user, .ObjectCard .ObjectCard-header .topic_name, .ObjectCard .ObjectCard-header .BoardName, .ObjectCard .ObjectCard-header .sig{
-	color:white;
+	color:white !important;
 }
 
 .NGProfileNameEditor{
-	color:#FFECB3;
+	color:#FFECB3 !important;
 }
 
 .comment_wrapper .comment .comment_contents .full_comment_text .comment_author_header .author_name .user, .comment_wrapper .comment .comment_contents .full_comment_text .comment_author_header .author_name .anon_user{
-	color:#22a7f0;
+	color:#22a7f0 !important;
 }
 
 .hover_menu .ObjectCard{
-	background-color: #141d26;
+	background-color: #141d26 !important;
 }
 
 .SiteHeader .SiteHeaderNavItem .nav_item_link.hover, .SiteHeader .site_header_nav_item .nav_item_link.hover, .SiteHeader .SiteHeaderNavItem .nav_item_link:hover, .SiteHeader .site_header_nav_item .nav_item_link:hover, .SiteHeader .SiteHeaderNavItem .nav_item_link:active, .SiteHeader .site_header_nav_item .nav_item_link:active{
-	background-color:#424242;
+	background-color:#424242 !important;
 }
 
 .topic_pill{
-	background-color:#424242;
+	background-color:#424242 !important;
 }
 
 .topic_pill:hover{
-	background-color:#424242;
+	background-color:#424242 !important;
 }
 
 .threaded_comments{
-	background-color: #141d26;
+	background-color: #141d26 !important;
 }
 
 a{
-	color:#22A7F0;
+	color:#22A7F0 !important;
 }
 
 .threaded_comments.answer_auto_expanded_comments{
-	color:#BDBDBD;
-    border: 2px solid #BDBDBD;
+	color:#BDBDBD !important;
+    border: 2px solid #BDBDBD !important;
 }
 
 .AdStory{
-	display:none;
+	display:none !important;
 } 
 .hover_menu .ObjectCard .ObjectCard-footer{
-	background-color: #141d26;
+	background-color: #141d26 !important;
 }
 .container{
-	background-color:blue;
+	background-color:blue !important;
 }
 
 /* .full_bundle{
 	display:none;
 } */
 .AboutListItem .main_text{
-	color:white;
+	color:white !important;
 }
 
 .SuggestedUsersBundle .CarouselItem, .SuggestedTopicsBundle .CarouselItem{
-	background-color: #141d26;
-    color:white;
+	background-color: #141d26 !important;
+    color:white !important;
 }
 
 .outer_content{
-	display:none;
+	display:none !important;
 }
 
 .HyperLinkSurvey {
-	display:none;
+	display:none !important;
 }
 
 .TopicPreviewBioAnswers .topic_name{
-	color:white;
+	color:white !important;
 }
 
 .grid_page h3{
-	color:white;
+	color:white !important;
 }
 
 .layout_3col_center .list_header{
-	color:white;
+	color:white !important;
 }
 
 .layout_3col_center .list_header .switcher{
-	color:white;
+	color:white !important;
 }
 
 .SiteHeader .MoreHoverMenuContents .LegalNavLinks, .LoggedInSiteHeader .MoreHoverMenuContents .LegalNavLinks, .NonMemberSiteHeader .MoreHoverMenuContents .LegalNavLinks, .SiteHeader .AdsMoreHoverMenuContents .LegalNavLinks, .LoggedInSiteHeader .AdsMoreHoverMenuContents .LegalNavLinks, .NonMemberSiteHeader .AdsMoreHoverMenuContents .LegalNavLinks, .SiteHeader .LoggedInNonMemberProfileHoverMenuContents .LegalNavLinks, .LoggedInSiteHeader .LoggedInNonMemberProfileHoverMenuContents .LegalNavLinks, .NonMemberSiteHeader .LoggedInNonMemberProfileHoverMenuContents .LegalNavLinks, .SiteHeader .WriteHoverMenuContents .LegalNavLinks, .LoggedInSiteHeader .WriteHoverMenuContents .LegalNavLinks, .NonMemberSiteHeader .WriteHoverMenuContents .LegalNavLinks{
-	background-color:#141d26;
+	background-color:#141d26 !important;
 }
 
 .EditableList .nav_item_selected a, .EditableList .StaticListItem>.selected{
-	background-color:#FF1744;
-    color:white;
+	background-color:#FF1744 !important;
+    color:white !important;
 }
 
 .TopicPageCoverWithoutPhoto .header .TopicNameEdit h1, .TopicPageCoverWithoutPhoto .header .TopicNameEdit input{
-	color:#D500F9;
+	color:#D500F9 !important;
 }
 
 .SiteHeader.new_header .ask_bar .LookupBarSelector .selector_input{
-	color:white;
+	color:white !important;
 }
 
 .LookupBarResults.SelectorResults .selector_result{
-	background-color:#141d26;
+	background-color:#141d26 !important;
     color:#616161;
 }
 .Modal .modal_header, .Modal .modal_content, .Modal .modal_content .modal_body{
-	background-color:#141d26;
-    color:#616161;
+	background-color:#141d26 !important;
+    color:#616161 !important;
 }
 
 .Modal .modal_header .modal_title{
-	color:white;
+	color:white !important;
 }
 
 .Modal .modal_header, .Modal .modal_content, .Modal .modal_content .modal_body{
-	color:white;
+	color:white !important;
 }
 
 .Modal .modal_footer{
-	background-color:#141d26;
+	background-color:#141d26 !important;
 }
 
 .ContentPageFeed {
-	display:none;
+	display:none !important;
 }
 .Notif{
-	background-color:#141d26;
-    color:white;
+	background-color:#141d26 !important;
+    color:white !important;
 }
 
 .Notif .notif_item .user, .Notif .notif_item .topic_name{
-	color:white;
+	color:white !important;
 }
 
 .QuestionAnswerPageMain .RelatedAnswerItem a.story_link .question_text .QuestionText, .QuestionAnswerPageMain .RelatedAnswerItem .preview .question_text .QuestionText, .QuestionAnswerPageMain .RelatedAnswerItem a.story_link .question .rendered_qtext, .QuestionAnswerPageMain .RelatedAnswerItem .preview .question .rendered_qtext{
-	color:#22A7F0;
+	color:#22A7F0 !important;
 }
 
 .Notif:hover{
-	background-color:#141d26;
+	background-color:#141d26 !important;
 }
 
 .SiteHeader .NotifsHoverMenuContents .notif_dropdown_empty_state{
-	background-color:#141d26;
+	background-color:#141d26 !important;
 }
 
 input[type=text], input[type=email], input[type=number], input[type=password], textarea, .fake_editor, .qtext_editor_content{
-	background-color:#141d26;
+	background-color:#141d26 !important;
 }
 
 .AskQuestionModal.Modal .selector_input, .TribeAddItemModal .selector_input, .UserShareHyperLinkModal .selector_input{
-	color:white;
+	color:white !important;
 }
 
 .AskQuestionModal.Modal .QuestionSourceEdit input, .TribeAddItemModal .QuestionSourceEdit input, .UserShareHyperLinkModal .QuestionSourceEdit input{
-	background-color:#141d26;
+	background-color:#141d26 !important;
 }
 
 .SuggestedUsersBundle .CarouselItem .item_text .name, .SuggestedTopicsBundle .CarouselItem .item_text .name, .SuggestedUsersBundle .CarouselItem .item_text .name a, .SuggestedTopicsBundle .CarouselItem .item_text .name a{
-	color:white;
+	color:white !important;
 }
 
 .SuggestedUsersBundle .CarouselItem .item_text .sig, .SuggestedTopicsBundle .CarouselItem .item_text .sig{
-	color:white;
+	color:white !important;
 }
 .StatsMain .stats_side .ContentListWrapper .ContentListItem{
-	background-color:#212121;
+	background-color:#212121 !important;
 }
 
 .StatsMain .stats_side .ContentListWrapper .ContentListItem:hover{
-	background-color:#424242;
+	background-color:#424242 !important;
 }
 
 .StatsMain .stats_main .heads_up .heads_up_item{
-	background-color:#37474F;
+	background-color:#37474F !important;
 }
 
 .StatsMain .stats_main .heads_up .heads_up_item.is_active{
-	background-color:#263238;
+	background-color:#263238 !important;
 }
 
 .StatsMain .stats_main .heads_up .heads_up_item .big_num{
-	color:#22A7F0;
+	color:#22A7F0 !important;
 }
 
 .StatsMain .stats_main .heads_up .heads_up_item.is_active .big_num, .StatsMain .stats_main .heads_up .heads_up_item:hover .big_num{
-	color:#22A7F0;
+	color:#22A7F0 !important;
 }
 
 .StatsMain .stats_side .ContentListWrapper .AllContentLink{
-	background-color:#212121;
+	background-color:#212121 !important;
 }
 .StatsMain .stats_side .ContentListWrapper .AllContentLink.is_active{
-	background-color:#212121;
+	background-color:#212121 !important;
 }
 
 .StatsMain .stats_side .ContentListWrapper .ContentListItem.is_active{
-	background-color:#424242;
+	background-color:#424242 !important;
 }
 
 .StatsMain .FilterMain .Filter .menu_link{
-	background-color:#424242;
+	background-color:#424242 !important;
 }
 
 .ExpandedVoterListItem .author_info .feed_item_answer_user a.user{
-	color:white;
+	color:white !important;
 }
 .AskerSatisfactionSurvey{
-	display:none;
+	display:none !important;
 }
 
 .RequestAnswersDrawer .inner{
-	background-color:#424242;
+	background-color:#424242 !important;
 }
 
 .SuggestedUsersBundle .CarouselItem .button_container .Button, .SuggestedTopicsBundle .CarouselItem .button_container .Button{
-	font-size:15px;
+	font-size:15px !important;
 }
 .follow_button, .ama_a2a_question, .tribe_submit_button, .Topic.Button, .Session.Button, .User.Button, .PileOnRequest.Button{
-	border-radius:0px;
-    background-color:#00B8D4;
+	border-radius:0px !important;
+    background-color:#00B8D4 !important;
     color:white;
 }
 
 .follow_button.unfollow_button, .ama_a2a_question.unfollow_button, .tribe_submit_button.unfollow_button, .Topic.Button.unfollow_button, .Session.Button.unfollow_button, .User.Button.unfollow_button, .PileOnRequest.Button.unfollow_button, .follow_button.unfollow_question, .ama_a2a_question.unfollow_question, .tribe_submit_button.unfollow_question, .Topic.Button.unfollow_question, .Session.Button.unfollow_question, .User.Button.unfollow_question, .PileOnRequest.Button.unfollow_question, .follow_button.pressed, .ama_a2a_question.pressed, .tribe_submit_button.pressed, .Topic.Button.pressed, .Session.Button.pressed, .User.Button.pressed, .PileOnRequest.Button.pressed, .follow_button.disabled, .ama_a2a_question.disabled, .tribe_submit_button.disabled, .Topic.Button.disabled, .Session.Button.disabled, .User.Button.disabled, .PileOnRequest.Button.disabled{
-	background-color:#0091EA;
-    color:white;
+	background-color:#0091EA !important;
+    color:white !important;
 }
 
 .ObjectCard .ObjectCard-header .name_text, .ObjectCard .ObjectCard-header .user, .ObjectCard .ObjectCard-header .anon_user, .ObjectCard .ObjectCard-header .BoardName{
-	color:white;
+	color:white !important;
 }
 
 .follow_button .count, .ama_a2a_question .count, .tribe_submit_button .count, .Topic.Button .count, .Session.Button .count, .User.Button .count, .PileOnRequest.Button .count{
-	color:white;
+	color:white !important;
 }
 
 .follow_button.unfollow_button .count, .ama_a2a_question.unfollow_button .count, .tribe_submit_button.unfollow_button .count, .Topic.Button.unfollow_button .count, .Session.Button.unfollow_button .count, .User.Button.unfollow_button .count, .PileOnRequest.Button.unfollow_button .count, .follow_button.unfollow_question .count, .ama_a2a_question.unfollow_question .count, .tribe_submit_button.unfollow_question .count, .Topic.Button.unfollow_question .count, .Session.Button.unfollow_question .count, .User.Button.unfollow_question .count, .PileOnRequest.Button.unfollow_question .count, .follow_button.pressed .count, .ama_a2a_question.pressed .count, .tribe_submit_button.pressed .count, .Topic.Button.pressed .count, .Session.Button.pressed .count, .User.Button.pressed .count, .PileOnRequest.Button.pressed .count, .follow_button.disabled .count, .ama_a2a_question.disabled .count, .tribe_submit_button.disabled .count, .Topic.Button.disabled .count, .Session.Button.disabled .count, .User.Button.disabled .count, .PileOnRequest.Button.disabled .count{
-	color:white;
+	color:white !important;
 }
 
 .RequestedQuestioninModalRow .question_area .question_link, .ui_content_title--large,.QuestionPageAnswerHeader{
@@ -408,4 +408,98 @@ input[type=text], input[type=email], input[type=number], input[type=password], t
 
 .logged_out_page_big_signup .ContentWrapper .HomePageSignupForm {
     background: #141d26 !important
+}
+
+/*may 2020 update*/
+
+.qu-bg--white {
+	background-color: #141d26 !important;
+}
+
+.qu-color--gray_dark_dim, .qu-color--gray_dark {
+	color: #ddd !important;
+}
+
+.qu-color--gray_light {
+	color: #a6afbd !important;
+}
+
+.qu-color--blue_dark {
+	color: #8fc5ff !important;
+}
+
+.qu-bg--gray_ultralight {
+	background-color: #07131c;
+}
+
+.qu-color--gray {
+	color: #d5d5d5 !important;
+}
+
+.qu-bg--blue_light {
+	background-color: #1e2b37;
+}
+
+.qu-color--blue {
+	color: #95b3ff;
+}
+
+.iVA-Dxf .button_wrapper:hover, .iVA-Dxf .button_wrapper:active, .iVA-Dxf .button_wrapper:focus {
+	background-color: rgb(30, 42, 77) !important;
+}
+
+.qu-borderAll {
+	border-color: #232a3e !important;
+}
+
+.qu-bg--blue {
+	background-color: #242f4a !important;
+}
+
+.jpOdsG .button_wrapper:hover, .jpOdsG .button_wrapper:active, .jpOdsG .button_wrapper:focus {
+	background-color: rgb(28, 51, 72) !important;
+}
+
+button.q-flex {
+	outline: rgb(7, 19, 28) solid 4px;
+}
+
+.q-platform--desktop .qu-hover--borderColor--gray_dark:hover {
+	border-color: #141d26 !important;
+}
+
+.q-platform--desktop .qu-hover--bg--gray:hover {
+	background-color: #1e2b37 !important;
+}
+
+.qu-borderBottom, .qu-borderTop {
+	border-color: #233148;
+}
+
+.q-platform--desktop .qu-hover--bg--gray_light:hover, .q-platform--desktop .qu-hover--bg--blue_light:hover {
+	background-color: #1e2b37 !important;
+}
+
+.q-platform--desktop .qu-hover--color--blue:hover {
+	color: #8fafff !important;
+}
+
+.q-platform--desktop .qu-hover--bg--darken:hover {
+	background-color: rgba(7, 19, 28, 0.16) !important;
+}
+
+.qu-bg--blue_ultralight {
+	background-color: #07131c;
+}
+
+.qu-bg--gray {
+	background-color: #07131c;
+}
+
+.qu-color--red {
+	color: #ff7975;
+}
+
+.qu-bg--black_transparent_dark {
+	background-color: rgba(14, 21, 28, 0.91);
 }
